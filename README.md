@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning Jave <br>🎯 Goals: developer in object<br></p>
+<p align="left"><br>📚 I'm currently learning Java <br>🎯 Goals: developer in object<br></p>
 
 ###
 
