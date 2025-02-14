@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Jose Miguel Ortiz and I am a programmer developing in Java, J.</p>
+<p align="left">My name is  Jose Miguel Ortiz and I am a programmer developing in Java, JS.</p>
 
 ###
 
