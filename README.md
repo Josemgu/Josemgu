@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://svg-viewer.fileformat.info/favicon.svg" height="40" alt="Python logo" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" alt="Python logo" />
   <img width="12" />
 
 </div>
